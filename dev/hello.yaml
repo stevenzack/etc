@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: hello
-        image: zigzigcheers/hello:v1
+        image: zigzigcheers/hello:v2
         resources:
           limits:
             memory: "64Mi"
